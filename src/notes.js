@@ -27,7 +27,13 @@ const notes = [
     key: 5,
     title: "Big ideas",
     content: "Eat more sushi"
+  },
+  {
+    key: 6,
+    title: "testing addition",
+    content: "don't Eat more sushi"
   }
+
 ];
 
 export default notes;
